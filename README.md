@@ -5,7 +5,6 @@ Facultad de Ciencias e Ingenieria
 
 ## Informacion General
 
-| Campo | Valor |
 |-------|-------|
 | Curso | Fisica II |
 | Actividad | Taller II - Actividad Colaborativa |
