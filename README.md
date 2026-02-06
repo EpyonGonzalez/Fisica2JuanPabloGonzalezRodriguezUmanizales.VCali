@@ -5,8 +5,8 @@ Facultad de Ciencias e Ingenieria
 
 ## Informacion General
 
-|-------|-------|
 | Curso | Fisica II |
+|-----------|---------|
 | Actividad | Taller II - Actividad Colaborativa |
 | Autor | Juan Pablo Gonzalez Rodriguez |
 | Periodo | 2025 |
