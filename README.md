@@ -30,7 +30,7 @@ Soluciones desarrolladas para los ejercicios del Taller II:
 ```
 /
 ├── apps-script/
-│   ├── Code.gs           # Codigo fuente Google Apps Script
+│   ├── Code.gs           
 │   └── appsscript.json   # Configuracion del proyecto
 ├── pdf/
 │   └── Taller2_FisicaII_Completo.pdf
@@ -40,7 +40,7 @@ Soluciones desarrolladas para los ejercicios del Taller II:
 
 ## Descripcion
 
-Este repositorio contiene la entrega academica del Taller II de Fisica II. Las soluciones fueron implementadas en Google Sheets mediante Google Apps Script, generando hojas de calculo con el desarrollo completo de cada ejercicio.
+Este repositorio contiene la entrega academica del Taller II de Fisica II. Las soluciones fueron implementadas en Google Sheets mediante Google Apps Script, generando hojas de calculo con el desarrollo estructurado de cada ejercicio.
 
 Cada solucion incluye:
 - Enunciado del problema
