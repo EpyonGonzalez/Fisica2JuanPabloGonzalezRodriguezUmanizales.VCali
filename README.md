@@ -9,7 +9,7 @@ Facultad de Ciencias e Ingenieria
 |-----------|---------|
 | Actividad | Taller II - Actividad Colaborativa |
 | Autor | Juan Pablo Gonzalez Rodriguez |
-| Periodo | 2025 |
+| Periodo | 2026 |
 
 ## Contenido
 
